@@ -1,0 +1,39 @@
+*{
+    font-family: "Reddit Sans Condensed";
+}
+
+img {
+    width: 500px;
+    height: 300px;
+}
+
+h4 {
+    margin-right: 10px;
+    color: grey;
+}
+
+.header-post {
+    text-align: center;
+    background-color: white;
+}
+
+.body-post {
+    background-color: lightgrey;
+    height: 10000px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.post {
+    width: 500px;
+    height: 550px;
+    background-color: white;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.titulo {
+    display: flex;
+    justify-content: space-between;
+}
